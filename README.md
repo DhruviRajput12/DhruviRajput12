@@ -39,6 +39,3 @@ Explore some of my creative projects on [GitHub](https://github.com/DhruviRajput
 
 Feel free to explore my projects and repositories. If you have any questions, want to collaborate, or just want to chat tech, don't hesitate to reach out. Thanks for stopping by!
 
-<div align="center">
-  <img src="https://your-image-url.com/your-footer-image.png" alt="Footer Image" width="400"/>
-</div>
