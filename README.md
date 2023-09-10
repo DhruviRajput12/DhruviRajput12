@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/DhruviRajput12/DhruviRajput12/blob/main/Untitled%20design.png" alt="Dhruvi Rajput" width="200"/>
+  <img src="https://github.com/DhruviRajput12/DhruviRajput12/blob/main/Untitled%20design%20(1).png" alt="Dhruvi Rajput" width="200"/>
 </div>
 
 # Hello, I'm Dhruvi Rajput! 👋
