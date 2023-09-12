@@ -39,3 +39,8 @@ Explore some of my creative projects on [GitHub](https://github.com/DhruviRajput
 
 Feel free to explore my projects and repositories. If you have any questions, want to collaborate, or just want to chat tech, don't hesitate to reach out. Thanks for stopping by!
 
+
+[![](https://visitcount.itsvg.in/api?id=DhruviRajput12&label=Profile%20Views&color=6&icon=3&pretty=true)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=DhruviRajput12&label=Profile%20Views&color=6&icon=3&pretty=true" />
+</a>
