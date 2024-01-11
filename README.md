@@ -30,7 +30,7 @@ Here's a glimpse of my technical expertise:
 
 ##Certification Showcase
 <div align="center">
-  <img src="https://github.com/DhruviRajput12/IBM-Cybersecurity-Analyst/blob/main/Screenshot%202024-01-11%20102529.png" alt="Certificatioin" width="200"/>
+  <img src="https://github.com/DhruviRajput12/IBM-Cybersecurity-Analyst/blob/main/Screenshot%202024-01-11%20102529.png" alt="Certificatioin" height="200" width="300"/>
 </div>
 
 ## Projects Showcase
