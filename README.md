@@ -28,9 +28,9 @@ Here's a glimpse of my technical expertise:
 - Version Control: **Git, GitHub, Bitbucket**
 - Project Management: **Agile, Scrum, Jira**
 
-##Certification Showcase
+## Certification Showcase
 <div align="center">
-  <img src="https://github.com/DhruviRajput12/IBM-Cybersecurity-Analyst/blob/main/Screenshot%202024-01-11%20102529.png" alt="Certificatioin" height="250" width="350"/>
+  <img src="https://github.com/DhruviRajput12/IBM-Cybersecurity-Analyst/blob/main/Screenshot%202024-01-11%20102529.png" alt="Certificatioin" height="350" width="450"/>
 </div>
 
 ## Projects Showcase
