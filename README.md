@@ -2,6 +2,8 @@
   <img src="https://github.com/DhruviRajput12/DhruviRajput12/blob/main/Untitled%20design%20(1).png" alt="Dhruvi Rajput" width="200"/>
 </div>
 
+
+
 # Hello, I'm Dhruvi Rajput! 👋
 
 I'm a passionate IT solutions student at Humber College with a Computer Applications bachelor's degree. My journey in technology includes a strong foundation in web development, proficiency in various programming languages, and experience with both front-end and back-end technologies.
@@ -25,6 +27,11 @@ Here's a glimpse of my technical expertise:
 - Frameworks: **Express.js, Vue, Redux**
 - Version Control: **Git, GitHub, Bitbucket**
 - Project Management: **Agile, Scrum, Jira**
+
+##Certification Showcase
+<div align="center">
+  <img src="https://github.com/DhruviRajput12/IBM-Cybersecurity-Analyst/blob/main/Screenshot%202024-01-11%20102529.png" alt="Certificatioin" width="200"/>
+</div>
 
 ## Projects Showcase
 
